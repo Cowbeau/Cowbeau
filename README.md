@@ -20,12 +20,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Support Technician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
-- :telescope: I’m working as a Support Technician supporting bank environments and vulnerability remediation.
+I am a System and Netowrk Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+- :telescope: I’m working as a System/Netowrk Administrator for on online fashion retailer. 
 
 - :seedling: Exploring Fullstack Development.
 
-- :zap: In my free time, I explore automation projects and APIs, read, play video games and hit the gym.
+- :zap: In my free time, I explore automation projects and APIs, read, watch anime, explore astrophotography, play video games and hit the gym.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/beaumccoy95) [![My Blog](https://img.shields.io/badge/My%20Blog-Cowbeau's%20Coding%20Journey-9CAF88)](https://cowbeaucodes.hashnode.dev/)
 
