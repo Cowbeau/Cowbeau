@@ -20,8 +20,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a System and Network Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
-- :telescope: I’m working as a System/Network Administrator for on online fashion retailer. 
+I am a Technical Support Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+- :telescope: I’m working as a Technical Support Specialist for an MSP supporting community banks. 
 
 - :seedling: Exploring Fullstack Development.
 
