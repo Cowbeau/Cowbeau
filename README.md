@@ -4,8 +4,6 @@
   <a href="www.linkedin.com/in/beaumccoy95">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://hachyderm.io/@cowbeau">
-    <img src="https://img.shields.io/badge/Mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/> 
 </div>
 <img src="https://komarev.com/ghpvc/?username=Cowbeau&style=flat-square&color=blue" alt=""/>
 <h1>
@@ -23,11 +21,11 @@
 I am a Technical Support Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
 - :telescope: I’m working as a Technical Support Specialist for an MSP supporting community banks. 
 
-- :seedling: Exploring Fullstack Development.
+- :seedling: Exploring Linux Administration and Python Development.
 
-- :zap: In my free time, I explore automation projects and APIs, read, watch anime, explore astrophotography, play video games and hit the gym.
+- :zap: In my free time, I explore automation projects and APIs, read, watch anime, write, play video games and hit the gym.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/beaumccoy95) [![My Blog](https://img.shields.io/badge/My%20Blog-Cowbeau's%20Coding%20Journey-9CAF88)](https://cowbeaucodes.hashnode.dev/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/beaumccoy95)
 
            
 
