@@ -21,9 +21,9 @@
 I am a Technical Support Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
 - :telescope: I’m working as a Technical Support Specialist for an MSP supporting community banks. 
 
-- :seedling: Exploring Linux Administration and Python Development.
+- :seedling: Exploring Linux Administration and Web Development, along with backend Python development.
 
-- :zap: In my free time, I explore automation projects and APIs, read, watch anime, write, play video games and hit the gym.
+- :zap: In my free time, I explore gaming development, read, watch anime, explore coffee shops, play video games and hit the gym.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/beaumccoy95)
 
