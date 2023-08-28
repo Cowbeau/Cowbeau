@@ -23,7 +23,7 @@ I am a Technical Support Specialist <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Exploring Linux Administration and Web Development, along with backend Python development.
 
-- :zap: In my free time, I explore gaming development, read, watch anime, explore coffee shops, play video games and hit the gym.
+- :zap: In my free time, I explore gaming development, read, watch anime, explore coffee shops, play video games, and hit the gym.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/beaumccoy95)
 
