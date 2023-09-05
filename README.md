@@ -50,8 +50,6 @@ I am a Technical Support Specialist <img src="https://media.giphy.com/media/WUlp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cowbeau&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=beaumccoy95&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <!-- Markdown -->
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
