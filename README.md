@@ -18,10 +18,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Technical Support Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
-- :telescope: I’m working as a Technical Support Specialist for an MSP supporting community banks. 
+I am an IT Technician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the USA.
+- :telescope: I’m working as an IT Technician for a law firm. 
 
-- :seedling: Exploring Linux Administration and Web Development, along with backend Python development.
+- :seedling: Exploring Linux Administration and Full-Stack Python development.
 
 - :zap: In my free time, I explore gaming development, read, watch anime, explore coffee shops, play video games, and hit the gym.
 
